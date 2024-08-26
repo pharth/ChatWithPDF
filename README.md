@@ -19,8 +19,8 @@ This is a Flask web application that provides AI-powered document search and ret
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/ai-document-search.git
-   cd ai-document-search
+   git clone https://github.com/pharth/ChatWithPDF
+   cd ChatWithPDF
    ```
 2.**Create a virtual environment:**
 
